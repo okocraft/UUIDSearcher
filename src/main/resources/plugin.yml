@@ -1,0 +1,8 @@
+name: UUIDSearcher
+main: net.okocraft.uuidsearcher.UUIDSearcher
+version: ${project.version}
+author: Siroshun09
+api-version: "1.16"
+commands:
+  searchforuuid:
+    alias: []
